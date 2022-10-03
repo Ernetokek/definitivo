@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+    font-size: 80px;
+}
+
+div {
+    width: 50%;
+    height: 33.33%;
+    position: absolute;
+}
+
+.uno {
+    background-color: aqua;
+}
+
+.dos {
+    background-color: violet;
+    left: 0%;
+    bottom: 33.33%;
+
+}
+
+.tres {
+    background-color: red;
+    bottom: 0%;
+}
+
+.cuatro {
+    background-color: cadetblue;
+    right: 0%;
+}
+
+.cinco {
+    background-color: cornflowerblue;
+    right: 0%;
+    bottom: 33.33%;
+}
+
+.seis {
+    background-color: darkorange;
+    bottom: 0%;
+    right: 0%;
+}
